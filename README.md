@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rajnish Kumar</h1>
 <h3 align="center">Passionate Python & ML Developer | BS in Data Science @IIT Madras</h3>
 
-- 🌱 I’m currently learning **React JS, JAVA, SQL, MLF**
+- 🌱 I’m currently learning **React JS, JAVA, SQL and MLF**
 
 - 👯 I’m looking to collaborate on [Grocery Store](https://github.com/0rajnishk/grocery-store)
-
-- 👨‍💻 All of my projects are available at [https://github.com/0rajnishk](https://github.com/0rajnishk)
 
 - 💬 Ask me about **Python, Vue, JavaScript, Git, HTML, CSS.**
 
 - 📫 How to reach me **0rajnishk@gmail.com**
+  
+<h3 align="center">My Projects</h3>
+- 👨‍💻 All of my projects are available at [https://github.com/0rajnishk](https://github.com/0rajnishk)
+- Grocery store: [[Grocery store](https://github.com/0rajnishk)](https://github.com/0rajnishk/grocery-store)
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0rajnishk&" alt="0rajnishk" /></p>
 
