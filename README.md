@@ -11,7 +11,9 @@
   
 <h3 align="center">My Projects</h3>
 - 👨‍💻 All of my projects are available at [https://github.com/0rajnishk](https://github.com/0rajnishk)
-- Grocery store: [[Grocery store](https://github.com/0rajnishk)](https://github.com/0rajnishk/grocery-store)
+
+
+- Grocery store: [[Grocery store](https://github.com/0rajnishk/grocery-store)]
 
 
 
