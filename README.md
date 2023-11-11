@@ -5,7 +5,9 @@
 ### Hi there, I am Rajnish Kumar 👋
 [![Linkedin Badge](https://img.shields.io/badge/-0rajnishk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0rajnishk/)](https://www.linkedin.com/in/0rajnishk/)
 
-[![Gmail Badge](https://img.shields.io/badge/-0rajnishk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0rajnishk@gmail.com)](mailto:0rajnishk@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-0rajnishk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0rajnishk@gmail.com)]
+
+<!--- [![Gmail Badge](https://img.shields.io/badge/-0rajnishk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0rajnishk@gmail.com)](mailto:0rajnishk@gmail.com)  -->
 
 - 🎯 Portfolio website: [Portfolio](https://0rajnishk.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
