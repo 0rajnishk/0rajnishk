@@ -11,7 +11,7 @@
 
 <h2 align="center">My Projects</h2>
 
-- <h3 align="center">👨‍💻 Explore all my projects on [GitHub](https://github.com/0rajnishk)</h3>
+<h3>👨‍💻 Explore all my projects on [GitHub](https://github.com/0rajnishk)</h3>
 
 - Grocery store: [Grocery store](https://github.com/0rajnishk/grocery-store)
 - Mask Detection Web App (Machine learning Project): [Mask Detation WebApp](https://github.com/0rajnish0/Mask-Detection-WebApp)
