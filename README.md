@@ -11,9 +11,10 @@
 
 <h3 align="center">My Projects</h3>
 
-- 👨‍💻 Explore all my projects on [GitHub](https://github.com/0rajnishk)
+- <h1 align="center">👨‍💻 Explore all my projects on [GitHub](https://github.com/0rajnishk)</h1>
 
 - Grocery store: [Grocery store](https://github.com/0rajnishk/grocery-store)
+- Mask Detection Web App (Machine learning Project): [Mask Detation WebApp](https://github.com/0rajnish0/Mask-Detection-WebApp)
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=0rajnishk&" alt="0rajnishk" /></p>
 
