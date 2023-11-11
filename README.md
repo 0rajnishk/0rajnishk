@@ -3,7 +3,7 @@
 
 
 ### Hi there, I am Rajnish Kumar 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
+[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0rajnishk/)](https://www.linkedin.com/in/0rajnishk/)
 [![Gmail Badge](https://img.shields.io/badge/-0rajnishk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0rajnishk@gmail.com)](mailto:0rajnishk@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://0rajnishk.github.io/)
@@ -44,13 +44,7 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://kaggle.com/rajnish0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajnish0" height="30" width="40" /></a>
-  <a href="https://instagram.com/0rajnishk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0rajnishk" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/22f2000625" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22f2000625" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/rajnish-kr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajnish-kr" height="30" width="40" /></a>
-</p>
+
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
