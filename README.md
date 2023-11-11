@@ -28,7 +28,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5)
+![Javascript](https://img.shields.io/badge/javascript-000000?style=flat&logo=Javascript)
 
 
 
