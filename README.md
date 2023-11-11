@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Rajnish Kumar</h1>
-<h3 align="center">Passionate Python & ML Developer | BSc Nursing Student</h3>
+<h3 align="center">Passionate Python & ML Developer | BS Data Science | @iitmadras </h3>
 
 - 🌱 I’m currently learning **React JS, JAVA, SQL, and MLF**
 
