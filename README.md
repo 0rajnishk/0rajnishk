@@ -27,7 +27,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![Javascript](https://img.shields.io/badge/javascript-000000?style=flat&logo=Javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![SQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=SQL)
 
 
 ⚛**Frameworks**
