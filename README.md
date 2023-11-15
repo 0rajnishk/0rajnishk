@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-0rajnishk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0rajnishk@gmail.com)](mailto:0rajnishk@gmail.com)
 
 - 🎯 Portfolio website: [Portfolio](https://0rajnishk.github.io/)
-- ⚡ Fun fact: : Debugging is like being the detective in a crime movie where &#160; &#160; you are also the murderer.🤓
+- ⚡ Fun fact: : Debugging is like being the detective in a crime movie where you are also the murderer.🤓
 
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
