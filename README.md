@@ -1,5 +1,5 @@
 <!---<img align="right" src="https://github.com/0rajnishk/0rajnishk/blob/main/developer.gif" alt="Coder GIF" width="420" height="330"> -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coder GIF" width="450" height="500">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coder GIF" width="400" height="500">
 
 
 
@@ -8,7 +8,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-0rajnishk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0rajnishk@gmail.com)](mailto:0rajnishk@gmail.com)
 
 - 🎯 Portfolio website: [Portfolio](https://0rajnishk.github.io/)
-- ⚡ Fun fact: : Debugging is like being the detective in a crime movie where you are also the murderer.🤓
 
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
