@@ -1,5 +1,5 @@
 <!---<img align="right" src="https://github.com/0rajnishk/0rajnishk/blob/main/developer.gif" alt="Coder GIF" width="420" height="330"> -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coder GIF" width="330" height="330">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coder GIF" width="450" height="500">
 
 
 
@@ -16,9 +16,9 @@
 - Machine Learning 🧐
 - Data Science 😬
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<!------<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
   <img align="right" width="420" height="auto" src="https://github-readme-stats.vercel.app/api?username=0rajnishk&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
-</a>
+</a> ------->
  
 🧑🏾‍💻**Languages &#38; databases**
 
@@ -60,7 +60,7 @@
 <!--------- beta ------------------------------->
 <h3 align="left">Activity:</h3>
 
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=0rajnishk&custom_title=Rajnish's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
