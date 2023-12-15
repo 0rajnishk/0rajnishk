@@ -33,7 +33,7 @@
 ⚛**Frameworks**
 
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Vue js](https://img.shields.io/badge/-Vue-Js?style=flat&logo=Vue_js)
+![Vue js](https://img.shields.io/badge/-flask-000000?style=flat&logo=flask)
 ![Flask](https://img.shields.io/badge/-Vue_Js-000000?style=flat&logo=Javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
