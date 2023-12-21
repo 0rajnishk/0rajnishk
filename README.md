@@ -22,7 +22,6 @@
 🧑🏾‍💻**Languages &#38; databases**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![Javascript](https://img.shields.io/badge/javascript-000000?style=flat&logo=Javascript)
