@@ -1,79 +1,64 @@
-<!---<img align="right" src="https://github.com/0rajnishk/0rajnishk/blob/main/developer.gif" alt="Coder GIF" width="420" height="330"> -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coder GIF" width="400" height="500">
 
+### Hi there, I’m Rajnish Kumar 👋
 
-
-### Hi there, I am Rajnish Kumar 👋
-[![Linkedin Badge](https://img.shields.io/badge/-0rajnishk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0rajnishk/)](https://www.linkedin.com/in/0rajnishk/)
+[![LinkedIn Badge](https://img.shields.io/badge/-0rajnishk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0rajnishk/)](https://www.linkedin.com/in/0rajnishk/)
 [![Gmail Badge](https://img.shields.io/badge/-0rajnishk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0rajnishk@gmail.com)](mailto:0rajnishk@gmail.com)
 
-- 🎯 Portfolio website: [Portfolio](https://0rajnishk.github.io/)
+---
 
-💻 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
-- Machine Learning 🧐
-- Data Science 😬
+🚀 AI Engineer | Full-stack Developer | Builder  
+🧠 Working on LLMs, Agents, RAG pipelines, NLP & automation  
+👨‍🏫 Mentor for App Dev @ IIT Madras bootcamps  
+🏆 Built 0→1 AI products | Best Capstone Award Winner | Research at SGBC  
 
-<!------<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img align="right" width="420" height="auto" src="https://github-readme-stats.vercel.app/api?username=0rajnishk&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
-</a> ------->
- 
-🧑🏾‍💻**Languages &#38; databases**
+---
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
-![Javascript](https://img.shields.io/badge/javascript-000000?style=flat&logo=Javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=SQL)
+### 💻 Tech Stack & Tools
 
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![JS](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript) ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)
 
-⚛**Frameworks**
+**Frameworks:**  
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask) ![Django](https://img.shields.io/badge/-Django-000?style=flat&logo=django) ![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js)
 
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Vue js](https://img.shields.io/badge/-flask-000000?style=flat&logo=flask)
-![Flask](https://img.shields.io/badge/-Vue_Js-000000?style=flat&logo=Javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+**AI/ML:**  
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat&logo=pytorch) ![Transformers](https://img.shields.io/badge/-Transformers-000?style=flat&logo=huggingface) ![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=flat&logo=opencv)
 
-🛠**Tools**
+**Cloud/DevOps:**  
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker) ![GCP](https://img.shields.io/badge/-GCP-000?style=flat&logo=googlecloud) ![CI/CD](https://img.shields.io/badge/-CI/CD-000?style=flat&logo=githubactions)  
 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
+**MLOps:**  
+![MLflow](https://img.shields.io/badge/-MLflow-000?style=flat&logo=mlflow) ![Weights & Biases](https://img.shields.io/badge/-W&B-000?style=flat&logo=wandb) ![Airflow](https://img.shields.io/badge/-Airflow-000?style=flat&logo=apacheairflow)
 
-🤖**AI &#38; ML Libraries**
+---
 
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
+### 📌 Featured Projects
 
+- 🧠 [Research Paper Q&A System](https://github.com/0rajnishk/sgbc/blob/main/LLM.md) – Multi-agent architecture using LLMs (Mixtral, Gemini), RAG, FAISS & Pinecone  
+- 🧾 [Menu Data Extraction](https://github.com/0rajnishk/Menu-Data-Extraction-) – Smart form parsing and structuring from complex menus  
+- 🎧 [Best Capstone Project – MAD II](https://github.com/0rajnishk/MAD-II-Project) – Music streaming app with custom backend + Vue.js  
+- 👨‍🏫 [Mentorship @ Creon Bootcamps](https://blog.creon.co.in/) – Led multiple application development cohorts
 
+---
+
+### 📊 GitHub Stats
+<a href="https://github.com/0rajnishk">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=0rajnishk&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+</a>
+
+---
+
+### 🧩 Fun Facts
+
+- Debugging is like being the detective in a crime movie... where you're also the murderer 🕵️‍♂️
+- I love exploring intersections of language, logic, and automation
+- Always open to collaborate on anything AI + impact-driven
+
+---
 
 <div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+  <h3>⭐ If something helped you or you liked it, consider giving a star!</h3>
 </div>
 
-<!--------- beta ------------------------------->
-<h3 align="left">Activity:</h3>
-
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=0rajnishk&custom_title=Rajnish's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
-
-<div align="center">
-
-
-<b>⚡ Fun fact: - </b>
-<i>❝Debugging is like being the detective in a crime movie where you are also the murderer.🤓❞</i>
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0rajnishk&custom_title=Rajnish's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
