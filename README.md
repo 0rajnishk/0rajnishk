@@ -55,7 +55,7 @@
 📈 **Projects**  
 - [Neuro Voyager](https://github.com/0rajnishk/sgbc) – RAG system for research paper QnA
 - [Acountifi](https://github.com/0rajnishk/sgbc) – PowerBI dashboard control panel
-- [Sarathi AI](https://github.com/0rajnishk/) – Driver monitoring & fleet dashboard (Raspberry based video capturing/processing device) computer vision to track driver behaviour. ELM327 based device to get Vehicle parameters i.e. speed, rpm, etc. from ECU. combine both data real time analysis displayed on fleet dashboard.
+- [Sarathi AI](https://github.com/0rajnishk/hilcps-FedEx-Project-) – Driver monitoring & fleet dashboard (Raspberry based video capturing/processing device) computer vision to track driver behaviour. ELM327 based device to get Vehicle parameters i.e. speed, rpm, etc. from ECU. combine both data real time analysis displayed on fleet dashboard.
 - [NLDb](https://github.com/0rajnishk/) – NL to Excel, sql database, documents(pdf,word,docx) querying
 - [Custom Bot Builder](https://github.com/0rajnishk/) – Modular RAG + Guardrails system
 - [Music Streaming](https://github.com/0rajnishk/MAD-II-Project) – Music Application like spotify user, creator and admin roles (Capston project) Best Project Award
