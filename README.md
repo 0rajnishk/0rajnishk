@@ -4,24 +4,24 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-0rajnishk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0rajnishk/)](https://www.linkedin.com/in/0rajnishk/)
 [![Gmail Badge](https://img.shields.io/badge/-0rajnishk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0rajnishk@gmail.com)](mailto:0rajnishk@gmail.com)
-- 🎯 Portfolio: [0rajnishk.github.io](https://0rajnishk.github.io)
+-  Portfolio: [0rajnishk.github.io](https://0rajnishk.github.io)
 
 ---
 
-🚀 **Currently Working On:**
+ **Currently Working On:**
 - AI-powered dashboards, RAG-based QnA bots & LLM analytics (Desicrew, SGBC)
 - Multilingual voice-to-voice HR chatbots
 - Natural Language to SQL analytics platform
 - Real-time fleet behavior monitoring app (Sarathi AI @ HILCPS Lab, IIT Madras)
 
-🧠 **Research & Teaching:**
+ **Research & Teaching:**
 - Mentor @ IIT Madras (Modern App Dev II): 4 bootcamps, 25+ project evaluations
 - Research Intern @ IITM, SGBC: Fine-tuning Mixtral & metadata-enhanced RAG
 - Worked with agents, FAISS, Pinecone, Mixtral, and LangChain-based pipelines
 
 ---
 
-🧰 **Tech Stack**
+ **Tech Stack**
 **Languages & Databases:**  
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
@@ -52,7 +52,7 @@
 
 ---
 
-📈 **Projects**  
+ **Projects**  
 - [Neuro Voyager](https://github.com/0rajnishk/sgbc) – RAG system for research paper QnA
 - [Acountifi](https://github.com/0rajnishk/sgbc) – PowerBI dashboard control panel
 - [Sarathi AI](https://github.com/0rajnishk/hilcps-FedEx-Project-) – Driver monitoring & fleet dashboard (Raspberry based video capturing/processing device) computer vision to track driver behaviour. ELM327 based device to get Vehicle parameters i.e. speed, rpm, etc. from ECU. combine both data real time analysis displayed on fleet dashboard.
@@ -67,4 +67,4 @@
 
 ---
 
-<p align="center">❤️ Show some love by starring a few repos!</p>
+<p align="center"> Show some love by starring a few repos!</p>
