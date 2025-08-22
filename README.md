@@ -15,7 +15,7 @@
 - Real-time fleet behavior monitoring app (Sarathi AI @ HILCPS Lab, IIT Madras)
 
  **Research & Teaching:**
-- Mentor @ IIT Madras (Modern App Dev II): 4 bootcamps, 25+ project evaluations
+- Mentor @ IIT Madras (Modern App Dev II): 4 bootcamps, 200+ project evaluations
 - Research Intern @ IITM, SGBC: Fine-tuning Mixtral & metadata-enhanced RAG
 - Worked with agents, FAISS, Pinecone, Mixtral, and LangChain-based pipelines
 
