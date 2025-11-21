@@ -2,72 +2,72 @@
 
 ### Rajnish Kumar
 
-[![Linkedin Badge](https://img.shields.io/badge/-0rajnishk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0rajnishk/)](https://www.linkedin.com/in/0rajnishk/)
-[![Gmail Badge](https://img.shields.io/badge/-0rajnishk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0rajnishk@gmail.com)](mailto:0rajnishk@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-0rajnishk-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0rajnishk/)](https://www.linkedin.com/in/0rajnishk/)
+[![Gmail Badge](https://img.shields.io/badge/-0rajnishk@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:0rajnishk@gmail.com)](mailto:0rajnishk@gmail.com)
 -  Portfolio: [0rajnishk.github.io](https://0rajnishk.github.io)
 
 ---
 
 ### High-Impact Engineering: R&D, GenAI & Mobile Systems
 
-I bridge the gap between complex AI research and production-grade applications. My background spans corporate R&D at **FedEx**, specialized GenAI development at **IIT Madras**, and delivering over **20+ end-to-end commercial applications** as a consultant.
+I bridge the gap between complex AI research and production-grade applications. My background spans corporate R&D at **FedEx**, specialized GenAI development at **IIT Madras**, and delivering over **20+ end-to-end commercial applications** as a technical consultant.
 
-#### 🔭 Professional Experience & R&D
-* **R&D Intern @ FedEx Smart Lab:** Architected **Sarathi AI**, a fleet management ecosystem. [cite_start]Engineered a computer vision model for driver behavior monitoring, improving detection accuracy from 60% to **100%**[cite: 32, 33, 35].
-* **GenAI & Full-Stack Developer @ SGBC (Brain Centre):** Developed **Neuro Voyager**, a RAG-based research platform presented at **NVIDIA GTC**. [cite_start]Implemented NeuroGuardrails and Knowledge Graphs for complex query handling[cite: 14, 40, 41, 44].
-* [cite_start]**ML Engineer @ Desi Crew:** Building **Multilingual Voice-to-Voice HR Chatbots** (10+ languages) and multi-agent web scraping pipelines for large-scale data extraction[cite: 19, 20, 22, 23].
+#### Professional Experience & R&D
+* **R&D Intern at FedEx Smart Lab:** Architected **Sarathi AI**, a fleet management ecosystem. Engineered a computer vision model for driver behavior monitoring, improving detection accuracy from 60% to **100%** and integrating real-time IoT (Raspberry Pi) data.
+* **GenAI & Full-Stack Developer at SGBC (Brain Centre):** Developed **Neuro Voyager**, a RAG-based research platform presented at **NVIDIA GTC**. Implemented NeuroGuardrails and Knowledge Graphs for complex query handling.
+* **ML Engineer at Desi Crew:** Building **Multilingual Voice-to-Voice HR Chatbots** (supporting 10+ languages) and multi-agent web scraping pipelines for large-scale data extraction.
 
-#### 💼 Contract Engineering & Consulting
+#### Contract Engineering & Consulting
 * **End-to-End Delivery:** Successfully delivered **20+ Webapps and Native Mobile Applications** for global clients.
 * **Specialization:** High-impact MVP development, AI/ML integration into legacy systems, and scalable microservices architecture.
 
-#### 🛠 Technical Arsenal
-* [cite_start]**Generative AI:** RAG Pipelines (FAISS/Pinecone), NL2SQL Systems, Multi-Agent Orchestration (uAgents, LangChain), Prompt Engineering, NeMo Guardrails, Knowledge Graphs[cite: 4, 7, 46, 50].
-* [cite_start]**Machine Learning:** Computer Vision (Driver Pose Detection), Predictive Analytics, TensorFlow, PyTorch, Scikit-learn[cite: 5, 35].
-* [cite_start]**Full-Stack Web:** Microservices Architecture, FastAPI, Django, Vue.js, Docker, RESTful APIs, Google Cloud Platform (GCP)[cite: 6, 7, 39].
-* [cite_start]**Mobile & IoT:** Flutter (Dart), Real-time Socket connections, IoT Hardware Integration (Raspberry Pi/ECU data)[cite: 3, 36, 38].
+#### Technical Expertise
+* **Generative AI:** RAG Pipelines (FAISS/Pinecone), NL2SQL Systems, Multi-Agent Orchestration (uAgents, LangChain), Prompt Engineering, NeMo Guardrails.
+* **Machine Learning:** Computer Vision (Driver Pose Detection), Predictive Analytics, TensorFlow, PyTorch, Scikit-learn.
+* **Full-Stack Web:** Microservices Architecture, FastAPI, Django, Vue.js, Docker, RESTful APIs, Google Cloud Platform (GCP).
+* **Mobile & IoT:** Flutter (Dart), Real-time Socket connections, IoT Hardware Integration (Raspberry Pi/ECU data).
 
 ---
 
-#### 🏆 Featured Projects
-- [cite_start]**Studify:** Developed a centralized educational platform serving **10,000+ students** with personalized learning resources[cite: 17, 59].
-- **Sarathi AI:** Real-time fleet monitoring app integrating vehicle diagnostics (ECU) and driver safety alerts. [cite_start]Achieved **100% accuracy** in head pose detection[cite: 35, 36, 38].
-- **AgentFlow:** Multi-Agent Supply Chain Intelligence system. [cite_start]**Runner-up at Fetch.ai Innovation Lab Hackathon**[cite: 15, 48].
-- **Neuro Voyager:** RAG-based Q&A system for brain research papers. [cite_start]**Showcased at NVIDIA GTC**[cite: 14, 43].
+#### Featured Projects
+- **Studify:** Developed a centralized educational platform serving **10,000+ students** with personalized learning resources.
+- **Sarathi AI:** Real-time fleet monitoring app integrating vehicle diagnostics (ECU) and driver safety alerts. Achieved **100% accuracy** in head pose detection.
+- **AgentFlow:** Multi-Agent Supply Chain Intelligence system. **Runner-up at Fetch.ai Innovation Lab Hackathon**.
+- **Neuro Voyager:** RAG-based Q&A system for brain research papers. **Showcased at NVIDIA GTC**.
 
 ---
 
-**Languages & Databases:**
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![Dart](https://img.shields.io/badge/-Dart-000?style=flat&logo=dart)
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
+**Languages & Databases**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**AI/ML & Libraries:**
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow)
-![LangChain](https://img.shields.io/badge/-LangChain-000?style=flat)
-![Transformers](https://img.shields.io/badge/-HuggingFace-000?style=flat&logo=huggingface)
-![FAISS](https://img.shields.io/badge/-FAISS-000?style=flat)
+**AI/ML & Libraries**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![Transformers](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/-FAISS-003B57?style=flat-square)
 
-**Web & Frameworks:**
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
-![Django](https://img.shields.io/badge/-Django-000?style=flat&logo=django)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi)
+**Web & Frameworks**
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**DevOps & Cloud:**
-![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-000?style=flat&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 **Open for Contracts & Collaboration:** [contact.rajnishk@gmail.com](mailto:contact.rajnishk@gmail.com)
 
-
+<p align="center">Show some love by starring a few repos!</p>
 
 
 
