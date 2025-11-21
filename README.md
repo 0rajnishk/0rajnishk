@@ -10,7 +10,7 @@
 
 ### High-Impact Engineering: R&D, GenAI & Mobile Systems
 
-I bridge the gap between complex AI research and production-grade applications. My background spans corporate R&D at **FedEx**, specialized GenAI development at **IIT Madras**, and delivering over **20+ end-to-end commercial applications** as a technical consultant.
+I bridge the gap between complex AI research and production-grade applications. My background spans corporate R&D at **FedEx**, specialized GenAI development at **IIT Madras**, and delivering over **6 end-to-end commercial applications** as a technical consultant.
 
 #### Professional Experience & R&D
 * **R&D Intern at FedEx Smart Lab:** Architected **Sarathi AI**, a fleet management ecosystem. Engineered a computer vision model for driver behavior monitoring, improving detection accuracy from 60% to **100%** and integrating real-time IoT (Raspberry Pi) data.
@@ -18,7 +18,7 @@ I bridge the gap between complex AI research and production-grade applications. 
 * **ML Engineer at Desi Crew:** Building **Multilingual Voice-to-Voice HR Chatbots** (supporting 10+ languages) and multi-agent web scraping pipelines for large-scale data extraction.
 
 #### Contract Engineering & Consulting
-* **End-to-End Delivery:** Successfully delivered **20+ Webapps and Native Mobile Applications** for global clients.
+* **End-to-End Delivery:** Successfully delivered **6 Webapps and Native Mobile Applications** for global clients.
 * **Specialization:** High-impact MVP development, AI/ML integration into legacy systems, and scalable microservices architecture.
 
 #### Technical Expertise
