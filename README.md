@@ -7,26 +7,33 @@
 -  Portfolio: [0rajnishk.github.io](https://0rajnishk.github.io)
 
 ---
-### High-Impact Engineering: Agentic AI & Mobile Dev
 
-I bridge the gap between complex AI research and production-grade applications. My work ranges from building **Multi-Agent Systems** to deploying **Scalable Flutter Apps**.
+### High-Impact Engineering: R&D, GenAI & Mobile Systems
 
-#### Current Focus
-* **Agentic AI & RAG:** Engineering **Multilingual Voice-to-Voice HR Chatbots** (supporting 10+ languages) and automating large-scale web-scraping pipelines at **Desi Crew**.
-* **Sarathi AI (FedEx Lab @ IITM):** Developed a real-time Fleet Management Flutter app achieving **100% driver pose detection accuracy** using IoT (Raspberry Pi) integration.
-* **Neuro Voyager (NVIDIA GTC):** Architected a RAG-based research platform for the **Sudha Gopalakrishnan Brain Centre**, presented at NVIDIA's global AI conference.
-* **AgentFlow:** Built a Multi-Agent Supply Chain Intelligence system (Runner-up at **Fetch.ai Innovation Lab**).
+I bridge the gap between complex AI research and production-grade applications. My background spans corporate R&D at **FedEx**, specialized GenAI development at **IIT Madras**, and delivering over **20+ end-to-end commercial applications** as a consultant.
 
-#### Research & Teaching
-* **Mentor & TA @ IIT Madras:** Conducted **12 technical bootcamps** for 250+ students in Modern Application Development.
-* **Viva Examiner:** Evaluated **350+ student projects**, mentoring on Full-Stack & Deployment best practices.
-* **R&D Intern @ SGBC:** Implemented NeuroGuardrails, Knowledge Graphs, and Mixtral AI pipelines.
+#### 🔭 Professional Experience & R&D
+* **R&D Intern @ FedEx Smart Lab:** Architected **Sarathi AI**, a fleet management ecosystem. [cite_start]Engineered a computer vision model for driver behavior monitoring, improving detection accuracy from 60% to **100%**[cite: 32, 33, 35].
+* **GenAI & Full-Stack Developer @ SGBC (Brain Centre):** Developed **Neuro Voyager**, a RAG-based research platform presented at **NVIDIA GTC**. [cite_start]Implemented NeuroGuardrails and Knowledge Graphs for complex query handling[cite: 14, 40, 41, 44].
+* [cite_start]**ML Engineer @ Desi Crew:** Building **Multilingual Voice-to-Voice HR Chatbots** (10+ languages) and multi-agent web scraping pipelines for large-scale data extraction[cite: 19, 20, 22, 23].
 
-#### Tech Stack
-* **AI & ML:** LLMs (Llama, GPT), LangChain, RAG (FAISS/Pinecone), Multi-Agents (uAgents), NeMo Guardrails.
-* **Development:** Flutter (Dart), Python, FastAPI, Django, Vue.js, Docker, GCP.
+#### 💼 Contract Engineering & Consulting
+* **End-to-End Delivery:** Successfully delivered **20+ Webapps and Native Mobile Applications** for global clients.
+* **Specialization:** High-impact MVP development, AI/ML integration into legacy systems, and scalable microservices architecture.
 
-**Open for Contracts & Collaboration:** [contact.rajnishk@gmail.com](mailto:contact.rajnishk@gmail.com)
+#### 🛠 Technical Arsenal
+* [cite_start]**Generative AI:** RAG Pipelines (FAISS/Pinecone), NL2SQL Systems, Multi-Agent Orchestration (uAgents, LangChain), Prompt Engineering, NeMo Guardrails, Knowledge Graphs[cite: 4, 7, 46, 50].
+* [cite_start]**Machine Learning:** Computer Vision (Driver Pose Detection), Predictive Analytics, TensorFlow, PyTorch, Scikit-learn[cite: 5, 35].
+* [cite_start]**Full-Stack Web:** Microservices Architecture, FastAPI, Django, Vue.js, Docker, RESTful APIs, Google Cloud Platform (GCP)[cite: 6, 7, 39].
+* [cite_start]**Mobile & IoT:** Flutter (Dart), Real-time Socket connections, IoT Hardware Integration (Raspberry Pi/ECU data)[cite: 3, 36, 38].
+
+---
+
+#### 🏆 Featured Projects
+- [cite_start]**Studify:** Developed a centralized educational platform serving **10,000+ students** with personalized learning resources[cite: 17, 59].
+- **Sarathi AI:** Real-time fleet monitoring app integrating vehicle diagnostics (ECU) and driver safety alerts. [cite_start]Achieved **100% accuracy** in head pose detection[cite: 35, 36, 38].
+- **AgentFlow:** Multi-Agent Supply Chain Intelligence system. [cite_start]**Runner-up at Fetch.ai Innovation Lab Hackathon**[cite: 15, 48].
+- **Neuro Voyager:** RAG-based Q&A system for brain research papers. [cite_start]**Showcased at NVIDIA GTC**[cite: 14, 43].
 
 ---
 
@@ -44,7 +51,6 @@ I bridge the gap between complex AI research and production-grade applications. 
 ![LangChain](https://img.shields.io/badge/-LangChain-000?style=flat)
 ![Transformers](https://img.shields.io/badge/-HuggingFace-000?style=flat&logo=huggingface)
 ![FAISS](https://img.shields.io/badge/-FAISS-000?style=flat)
-![Pinecone](https://img.shields.io/badge/-Pinecone-000?style=flat)
 
 **Web & Frameworks:**
 ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)
@@ -52,22 +58,14 @@ I bridge the gap between complex AI research and production-grade applications. 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi)
 
-**DevOps & Tools:**
+**DevOps & Cloud:**
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-000?style=flat&logo=google-cloud)
-![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 
 ---
 
-**Projects**
-- [Neuro Voyager](https://github.com/0rajnishk/sgbc) – RAG system for research paper QnA. Presented at NVIDIA GTC.
-- [Acountifi](https://github.com/0rajnishk/sgbc) – PowerBI dashboard control panel.
-- [Sarathi AI](https://github.com/0rajnishk/hilcps-FedEx-Project-) – Driver monitoring & fleet dashboard. Achieved **100% accuracy** in driver pose detection. Integrated IoT (Raspberry Pi) and ECU data for real-time diagnostics.
-- [NLDb](https://github.com/0rajnishk/) – NL to Excel, SQL database, and document querying using LLMs.
-- [Custom Bot Builder](https://github.com/0rajnishk/) – Modular RAG + Guardrails system.
-- [Music Streaming](https://github.com/0rajnishk/MAD-II-Project) – Modern music application with Creator/Admin roles. Awarded **Best Project (100/100)** at IIT Madras.
-
+**Open for Contracts & Collaboration:** [contact.rajnishk@gmail.com](mailto:contact.rajnishk@gmail.com)
 
 
 
